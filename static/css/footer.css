@@ -1,0 +1,26 @@
+footer {
+
+  /* position: absolute; */
+  /* bottom: 0; */
+  /* width: 100%; */
+  height: 5rem;
+
+  background-color: #293745;
+  /* Background color */
+  color: #fff;
+  /* Text color */
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+
+}
+
+.container {
+  display: flex;
+  padding: 2px;
+  align-items: center;
+  justify-content: space-between;
+
+}
